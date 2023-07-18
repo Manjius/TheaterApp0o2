@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back" />
+
+    <!-- Title for Warmup Games -->
+    <TextView
+        android:id="@+id/warmupGamesTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Warmup Games"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp" />
+
+    <!-- RecyclerView for Warmup Games -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/warmupGamesRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="8dp"/>
+
+    <!-- Title for Main Games -->
+    <TextView
+        android:id="@+id/mainGamesTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Main Games"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp" />
+
+    <!-- RecyclerView for Main Games -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/mainGamesRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="8dp"/>
+
+</LinearLayout>

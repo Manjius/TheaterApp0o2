@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RealTheaterApp2</string>
+    <string-array name="style_options">
+        <item>Flow</item>
+        <item>Narrative</item>
+    </string-array>
+
+    <string-array name="game_types">
+        <item>Narrative</item>
+        <item>Flow</item>
+    </string-array>
+
+    <string name="type_prompt">Choose a game type</string>
+
+
+    <string name="complexity_prompt">Choose complexity</string>
+    <string-array name="complexity_array">
+        <item>full game</item>
+        <item>warmup</item>
+    </string-array>
+
+</resources>

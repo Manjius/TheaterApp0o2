@@ -1,0 +1,746 @@
+[
+    {
+        "name": "Freeze Tag",
+        "description": "Two players start a scene. At any time, a player on the sidelines can yell 'Freeze!', tag one player out, take their position, and start a new scene.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "One Word Story",
+        "description": "Players tell a story one word at a time, taking turns in a circle.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Park Bench",
+        "description": "One player sits on a park bench. Other players join and try to make the first player leave, without touching them or directly telling them to go.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Yes, And...",
+        "description": "Two players have a conversation where they must always start their sentence with 'Yes, and...', building on what the other person has said.",
+        "type": "Flow",
+        "size": 2,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Alphabet Game",
+        "description": "Two players have a conversation where each sentence must start with the next letter of the alphabet.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "Party Quirks",
+        "description": "One player hosts a party. The other players are given quirks by the audience, and the host must guess what they are.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Change",
+        "description": "Two players start a scene. At any point, the director can yell 'Change!', at which point the last player to speak must change what they said.",
+        "type": "Flow",
+        "size": 3,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "Sound Ball",
+        "description": "Players pass around an imaginary 'sound ball', mimicking and evolving the sound as they 'throw' and 'catch' it.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 2,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Emotional Symphony",
+        "description": "Players stand in a semicircle. One player conducts, pointing to different players to 'play' their assigned 'emotion'.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 2,
+        "complexity": "warmup"
+    },
+    {
+        "name": "What Are You Doing?",
+        "description": "Players alternate asking 'What are you doing?' and responding with an action that's unrelated to their current activity, which the asker then performs.",
+        "type": "Flow",
+        "size": 2,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Blind Line",
+        "description": "Players perform a scene while periodically pulling lines of dialogue written by the audience out of a hat and incorporating them into the scene.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Half Life",
+        "description": "A scene is played in one minute, then replayed in 30 seconds, 15 seconds, and so on, each time keeping the essence of the scene while speeding it up.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "Entrances and Exits",
+        "description": "Each player is assigned a word. Whenever that word is said in the scene, they must enter or exit.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "New Choice",
+        "description": "Players perform a scene. A director can yell 'new choice' at any time, causing the player to change their last line of dialogue.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Conducted Story",
+        "description": "Players stand in a line. One person conducts, pointing to different players to continue the story.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Columns",
+        "description": "Two players perform a scene with two audience members standing in as 'columns'. When a player taps a 'column', they must immediately provide a word or phrase, which the player must justify.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Zip Zap Zop",
+        "description": "Players stand in a circle and pass the 'energy' with the phrases 'Zip', 'Zap', and 'Zop'. The game is about keeping the rhythm and focus.",
+        "type": "Flow",
+        "size": 3,
+        "durationPerPerson": 1,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Beastie Rap",
+        "description": "Players stand in a circle and do a rhyming call-and-response rap about a suggested beastie, like 'Dinosaur'/'Hit the floor'.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 2,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Late for Work",
+        "description": "One player is 'late for work' and has to guess three reasons why, acted out by three other players and guided by the 'boss' player.",
+        "type": "Narrative",
+        "size": 5,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Object Tag",
+        "description": "Players interact with an imaginary object, passing it and transforming it as it goes.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 2,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Day in the Life",
+        "description": "One player tells the story of their day, and then other players reenact it with embellishments and exaggerations.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Questions Only",
+        "description": "Players can only speak in questions. If they make a statement, they are swapped out with another player.",
+        "type": "Flow",
+        "size": 2,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "3 Line Scenes",
+        "description": "In groups of three, players act out short three-line scenes. Each line should establish character, relationship, and setting.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 2,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Sit, Stand, Bend",
+        "description": "Three players perform a scene. At any time, one must be sitting, one standing, and one bending. If a player changes position, the others must adjust to keep the balance.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Gibberish Translator",
+        "description": "Two players act out a scene in gibberish, with a third translating. The gibberish-speaking players must convey the scene through physicality and inflection.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Mirroring",
+        "description": "Pairs stand facing each other and try to mirror each other's movements as closely as possible, fostering a connection.",
+        "type": "Flow",
+        "size": 2,
+        "durationPerPerson": 2,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Soundscape",
+        "description": "Players close their eyes and create a soundscape of a certain location or theme, like 'jungle' or 'spooky castle'.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Revolver",
+        "description": "Four scenes are performed by pairs of players. After each round, the 'revolver' rotates and the next scene begins.",
+        "type": "Narrative",
+        "size": 8,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Dubbing",
+        "description": "Two players perform a silent scene while two other players provide their dialogue.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "The Orchestra",
+        "description": "Each player picks an instrument (real or imaginary) and plays it. One person conducts, creating a musical 'narrative'.",
+        "type": "Flow",
+        "size": 5,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "World's Worst",
+        "description": "Players line up and step forward one by one to act out the 'world's worst' example of a given profession or situation.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 2,
+        "complexity": "full game"
+    },
+    {
+        "name": "Pass the Face",
+        "description": "One player makes a face, then 'passes' it to the next player by making eye contact. That player must mimic the face and pass it along.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 1,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Slow Motion Samurai",
+        "description": "Players take turns to be the Samurai who, in slow motion, 'attacks' the others who must 'die' in exaggerated slow motion ways.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 2,
+        "complexity": "full game"
+    },
+    {
+        "name": "Hot Spot",
+        "description": "One player starts singing a song in the center of the circle. When a player on the outside is reminded of a song, they replace the first player and start their song.",
+        "type": "Flow",
+        "size": 5,
+        "durationPerPerson": 2,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Foreign Film Dub",
+        "description": "Two players act out a scene in a made-up language, while two other players provide English 'subtitles'.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Expert Double Figures",
+        "description": "Two players form a 'figure' with their bodies. A third player is the 'expert' and must describe what the figure represents.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "Machine",
+        "description": "One player starts by repeating a simple sound and motion. One by one, other players join with their own, creating an 'improv machine'.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 1,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Sentences",
+        "description": "Players pull sentences written by the audience out of a hat and must incorporate them into the scene.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Pan Left",
+        "description": "Four players form a square and start four separate scenes. A director calls 'Pan left' or 'Pan right', rotating the square to change scenes.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Space Jump",
+        "description": "One player starts a scene. Additional players join, each adding a new situation. Once full, players exit in reverse order, resolving each situation.",
+        "type": "Narrative",
+        "size": 5,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Should've Said",
+        "description": "Players start a scene. At any point, the director can say 'Should've said,' at which point the last player to speak must change what they said.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "The Alphabet Game",
+        "description": "Players perform a scene where each sentence must start with the next letter of the alphabet.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Hitchhiker",
+        "description": "Players are in a car. A 'hitchhiker' enters with a specific characteristic that everyone in the car must adopt.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Chain Murder Mystery",
+        "description": "Players communicate the details of a 'murder' (including location, weapon, and identity) using only mime and gibberish.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Eulogy",
+        "description": "One player leaves the room, then returns as a character who has died. The other players deliver a eulogy, giving the dead character clues to guess their identity, cause of death, and accomplishment.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Living Scenery",
+        "description": "Two players perform a scene, with two additional players acting as any objects or scenery that are interacted with.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Clap Freeze",
+        "description": "Two players start a scene. At any time, an offstage player can clap, freeze the scene, take a player's position, and start a new scene.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "One Voice Expert",
+        "description": "Two or more players speak in unison as an 'expert' on a subject suggested by the audience, responding to questions from an interviewer.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Late For Work",
+        "description": "One player is 'late for work' and must guess from their 'boss' and 'coworkers' why they were late, what they did, and what they brought with them.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Column Advice",
+        "description": "Two players perform a scene where they periodically read lines from a 'column' of audience suggestions.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "The Dating Game",
+        "description": "One player is a 'bachelor' who asks questions of three 'contestants' with unique quirks. The bachelor must then guess what their quirks are.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Moving Bodies",
+        "description": "Two players act out a scene, but can't move unless moved by audience members.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Silent Scene",
+        "description": "Players perform a scene without speaking, using only physicality and facial expressions to communicate.",
+        "type": "Flow",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Half-Life",
+        "description": "Players perform a one-minute scene, then the same scene in 30 seconds, 15 seconds, and so on, until they're performing it in just one second.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Three-Headed Broadway Star",
+        "description": "Three players improvise a song one word at a time, based on a title suggested by the audience.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Two Truths and a Lie",
+        "description": "Each player tells two truths and a lie about themselves. The other players must guess which statement is the lie.",
+        "type": "Flow",
+        "size": 3,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "The Question Game",
+        "description": "Players must have a conversation in which they only speak in questions.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 3,
+        "complexity": "full game"
+    },
+    {
+        "name": "Whose Line",
+        "description": "Players perform a scene while periodically incorporating lines of dialogue written by the audience that they pull from a hat.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Emotional Rollercoaster",
+        "description": "Players perform a scene while a director calls out different emotions that the players must immediately adopt.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Oscar Winning Moment",
+        "description": "Players perform a scene. At any time, the director can call 'Oscar Winning Moment' and the selected player must deliver a dramatic monologue.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Instant Replay",
+        "description": "Players perform a scene. Afterwards, they must perform it again with the exact same dialogue and actions.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Genre Replay",
+        "description": "Players perform a short scene, then perform it again in different genres called out by the director or audience.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Gibberish Translation",
+        "description": "One player speaks in gibberish, another player translates.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Crazy Eights",
+        "description": "Eight players each perform a unique motion and sound, then quickly swap and replicate each other's actions.",
+        "type": "Flow",
+        "size": 8,
+        "durationPerPerson": 2,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Song Title",
+        "description": "Players have a conversation, but can only speak in song titles.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Oracle",
+        "description": "Multiple players speak as one 'oracle', answering audience questions one word at a time.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Dr. Know-It-All",
+        "description": "Multiple players answer audience questions one word at a time, as though they are one expert.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Stage Picture",
+        "description": "Players silently create a scene by forming a 'stage picture' with their bodies. They then step out and describe the scene they formed.",
+        "type": "Flow",
+        "size": 5,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Word at a Time Expert",
+        "description": "Players take turns adding one word at a time to an 'expert' answer to an audience question.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Split Scenes",
+        "description": "Two pairs of players perform separate scenes simultaneously. They must incorporate any overlapping dialogue from the other pair into their own scene.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Soundtrack",
+        "description": "One player provides sound effects or musical accompaniment to a scene.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Ding/Buzz",
+        "description": "Players perform a scene. A 'ding' sound means they must replace the last line of dialogue with something different.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Five Things",
+        "description": "Players must guess 'five things' about a scenario based on pantomimed clues from other players.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Puppet Master",
+        "description": "Players can only move when manipulated by other players who are 'pulling their strings'.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Interrogation",
+        "description": "One player is 'interrogated' and must guess their 'crime' based on the other players' hints.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Four Square",
+        "description": "Four players form a square and perform four different scenes. A clap rotates the square and switches the active scene.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Dubbed Movie",
+        "description": "One group of players act as the characters in a movie speaking in gibberish, another group provides their 'dubbed' dialogue.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "One Word at a Time",
+        "description": "Players tell a story one word at a time.",
+        "type": "Flow",
+        "size": 4,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "The Endowment Game",
+        "description": "One player leaves the room. The remaining players assign them a character, occupation, or trait which they must guess upon returning.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Zoom Schwartz Profigliano",
+        "description": "A rhythm game where players pass and block 'energy' using the words 'Zoom', 'Schwartz', and 'Profigliano'.",
+        "type": "Flow",
+        "size": 6,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Film Critic",
+        "description": "One player acts as a film critic, describing scenes from a movie that the other players then act out.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Panel of Experts",
+        "description": "Players are experts in bizarre fields, answering questions from the audience.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Slide Show",
+        "description": "One player narrates a slide show (other players forming tableaus) about a given topic.",
+        "type": "Narrative",
+        "size": 5,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Fishbowl",
+        "description": "Players draw prompts from a fishbowl and perform quick scenes based on them.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Chain Death Murder",
+        "description": "Players pass a 'murder' down the line using only mime and gibberish, with each player's interpretation building on the last.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "One Word At a Time Song",
+        "description": "Players compose a song one word at a time.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Tag Out",
+        "description": "Players perform a scene. At any time, a player off stage can 'tag out' one of them and take their place, continuing the scene with a new twist.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Speak in One Voice",
+        "description": "Two or more players try to speak simultaneously as if they were one person.",
+        "type": "Flow",
+        "size": 2,
+        "durationPerPerson": 3,
+        "complexity": "warmup"
+    },
+    {
+        "name": "Question Game",
+        "description": "Players perform a scene where they can only speak in questions.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Pillars",
+        "description": "Two players perform a scene, using audience members as 'pillars' to provide occasional words they must incorporate.",
+        "type": "Narrative",
+        "size": 2,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Remote Control",
+        "description": "Players perform a scene. An offstage player can 'change the channel' at any time, prompting the players to switch genres or styles.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Poetry Corner",
+        "description": "Players create and recite a poem one line at a time.",
+        "type": "Narrative",
+        "size": 3,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    },
+    {
+        "name": "Voices from Heaven",
+        "description": "One player performs a monologue. Other players provide 'voices from heaven' that only the monologuer can hear and must react to.",
+        "type": "Narrative",
+        "size": 4,
+        "durationPerPerson": 5,
+        "complexity": "full game"
+    }
+]
